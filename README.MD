@@ -40,3 +40,5 @@ contrast = ['factor of interest', 'treat', 'control']
 res = pdd.summary(contrast)
 ```
 
+## License
+pyDGEA is released under an MIT license.
